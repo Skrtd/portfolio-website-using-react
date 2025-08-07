@@ -8,8 +8,8 @@ const projects = [
         description: "Developed a comprehensive Amazon clone using HTML and CSS to replicate the user interface and design of the original platform. Leveraged modern web development techniques to create a responsive and visually appealing layout that closely resembles the Amazon website.",
         image: "/projects/project1.png",
         tags: ["HTML", "CSS"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://skrtd.github.io/Amazon.com-Clone-using-HTML-and-CSS/",
+        githubUrl: "https://github.com/Skrtd/Amazon.com-Clone-using-HTML-and-CSS",
     },
     {
         id: 2,
@@ -17,8 +17,8 @@ const projects = [
         description: " Designed and developed the front-end of a travel website using HTML, CSS, and JavaScript. Created a responsive layout to ensure seamless user experience across various devices. Implemented interactive features and custom CSS animations to enhance visual appeal.",
         image: "/projects/project2.png",
         tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://skrtd.github.io/Travel-Website-Using-HTML-CSS-Javascript/",
+        githubUrl: "https://github.com/Skrtd/Travel-Website-Using-HTML-CSS-Javascript",
     },
     {
         id: 3,
