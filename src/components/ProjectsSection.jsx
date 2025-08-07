@@ -22,15 +22,6 @@ const projects = [
     },
     {
         id: 3,
-        title: "Rock Paper Scissors Game",
-        description: "Developed an interactive Rock Paper Scissors game using HTML, CSS, and JavaScript.",
-        image: "/projects/project3.png",
-        tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "#",
-        githubUrl: "#",
-    },
-    {
-        id: 4,
         title: "Food Recipe App",
         description: "Built a responsive web application using React.js that allows users to search for food recipes. Fetched data from the MealDB API and displayed recipe details with images. Implemented search functionality and clean UI for a better user experience.",
         image: "/projects/project4.png",
